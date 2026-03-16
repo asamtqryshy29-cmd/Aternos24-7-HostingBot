@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "KGS BOT",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "KGSb.aternos.me",
     "port": 52144,
-    "version": "",
+    "version": "1.20.4",
     "try-creative": false
   },
   "position": {
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 300,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "انا بوت اضافني فيكسو لترك سيرفر 24 ساعة ",
+        "انا بوت اضافني فيكسو لترك سيرفر 24 ساعة !",
+        "انا بوت اضافني فيكسو لترك سيرفر 24 ساعة !"
       ]
     },
     "chat-log": true,
@@ -75,7 +75,7 @@
   },
   "beds": {
     "pick-up-day": false,
-    "place-night": false
+    "place-night": true
   },
   "discord": {
     "enabled": false,
